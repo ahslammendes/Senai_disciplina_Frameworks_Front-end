@@ -13,6 +13,29 @@ O objetivo desta disciplina é capacitar no desenvolvimento de interfaces web mo
 
 ---
 
+## 💻 Projetos Desenvolvidos por Aula
+
+Abaixo estão os projetos práticos desenvolvidos ao longo das aulas, com seus respectivos repositórios e links de deploy:
+
+| # | Aula | Projeto | Repositório | Deploy | Tecnologia |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+| 01 | Aula 01 | vannila.js | [🔗 Repositório](#) | [🌐 Ver online](#) | CSS / JavaScript |
+| 02 | Aula 02 | projeto-react | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
+| 03 | Aula 03 | quiz_react | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
+| 04 | Aula 03 | vue-project | [🔗 Repositório](#) | [🌐 Ver online](#) | Vue |
+| 05 | Aula 03 | meu-app-angular | [🔗 Repositório](#) | [🌐 Ver online](#) | Angular |
+| 06 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](#) | [🌐 Ver online](#) | Next.js |
+| 07 | Aula 04 | Projetos_API | [🔗 Repositório](#) | Esse repositório contém diversos projetos | React / Node.js (Express) |
+| 08 | Aula 04 | front_express | [🔗 Repositório](#) | [🌐 Ver online](#) | Express / Node.js |
+| 09 | Aula 05 | projeto-notas-back | [🔗 Repositório](#) | [🌐 Ver online](#) | Express / Node.js |
+| 10 | Aula 05 | front-notas | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
+| 11 | Aula 06 | Sem projeto | - | - | - |
+| 12 | Aula 07 | Projeto-CSS | [🔗 Repositório](#) | [🌐 Ver online](#) | HTML / CSS |
+| 13 | Aula 07 | Projeto---Tailwind | [🔗 Repositório](#) | [🌐 Ver online](#) | HTML / Tailwind CSS |
+| 14 | Aula 08 | Projeto_React_JS | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
+
+---
+
 ## 📂 Conteúdo Programático e Aulas
 
 Abaixo está o detalhamento de cada aula com resumo contextualizado e referências para os materiais correspondentes:
