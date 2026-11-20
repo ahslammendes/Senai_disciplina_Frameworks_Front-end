@@ -19,20 +19,20 @@ Abaixo estão os projetos práticos desenvolvidos ao longo das aulas, com seus r
 
 | # | Aula | Projeto | Repositório | Deploy | Tecnologia |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| 01 | Aula 01 | vannila.js | [🔗 Repositório](#) | [🌐 Ver online](#) | CSS / JavaScript |
-| 02 | Aula 02 | projeto-react | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
-| 03 | Aula 03 | quiz_react | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
-| 04 | Aula 03 | vue-project | [🔗 Repositório](#) | [🌐 Ver online](#) | Vue |
-| 05 | Aula 03 | meu-app-angular | [🔗 Repositório](#) | [🌐 Ver online](#) | Angular |
-| 06 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](#) | [🌐 Ver online](#) | Next.js |
-| 07 | Aula 04 | Projetos_API | [🔗 Repositório](#) | Esse repositório contém diversos projetos | React / Node.js (Express) |
-| 08 | Aula 04 | front_express | [🔗 Repositório](#) | [🌐 Ver online](#) | Express / Node.js |
-| 09 | Aula 05 | projeto-notas-back | [🔗 Repositório](#) | [🌐 Ver online](#) | Express / Node.js |
-| 10 | Aula 05 | front-notas | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
+| 01 | Aula 01 | projeto_em_vanillajs | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_vanillajs) | [🌐 Ver online](https://projeto-game-tiroaoalvo.vercel.app) | HTML / CSS / JavaScript |
+| 02 | Aula 02 | projeto_em_react_copy | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_react_copy) | [🌐 Ver online](https://projeto-em-react-copy.vercel.app) | React |
+| 03 | Aula 03 | projeto_em_react | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_react) | [🌐 Ver online](https://projeto-em-react-kappa.vercel.app) | React |
+| 04 | Aula 03 | projeto_em_vue | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_vue) | [🌐 Ver online](https://projeto-em-vue.vercel.app) | Vue |
+| 05 | Aula 03 | projeto_em_angular | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_angular) | [🌐 Ver online](https://projeto-em-angular.vercel.app) | Angular |
+| 06 | Aula 03 | projeto_NextJs | [🔗 Repositório](https://github.com/ahslammendes/projeto_NextJs) | [🌐 Ver online](https://projetonextjs-chi.vercel.app) | Next.js |
+| 07 | Aula 04 | Aplicacoes_web-Front-end | [🔗 Repositório](https://github.com/ahslammendes/Aplicacoes_web-Front-end) | Esse repositório contém diversos projetos | Markdown / APIs |
+| 08 | Aula 04 | front-express | [🔗 Repositório](https://github.com/ahslammendes/front-express) | [🌐 Ver online](https://front-express-api.onrender.com) | Express / Node.js |
+| 09 | Aula 05 | projeto_em_express_api_crud (Back-end) | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_express_api_crud) | [🌐 Ver online](https://projeto-em-express-api-crud.onrender.com) | Express / Node.js |
+| 10 | Aula 05 | projeto_em_express_api_crud (Front-end) | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_express_api_crud/tree/main/frontend) | [🌐 Ver online](https://projeto-em-express-api-crud.vercel.app) | React / Vite |
 | 11 | Aula 06 | Sem projeto | - | - | - |
-| 12 | Aula 07 | Projeto-CSS | [🔗 Repositório](#) | [🌐 Ver online](#) | HTML / CSS |
-| 13 | Aula 07 | Projeto---Tailwind | [🔗 Repositório](#) | [🌐 Ver online](#) | HTML / Tailwind CSS |
-| 14 | Aula 08 | Projeto_React_JS | [🔗 Repositório](#) | [🌐 Ver online](#) | React |
+| 12 | Aula 07 | projeto_em_css_guia | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_css_guia) | [🌐 Ver online](https://projetoemcssguia.vercel.app) | HTML / CSS |
+| 13 | Aula 07 | projeto_em_tailwind_css | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_tailwind_css) | [🌐 Ver online](https://projetoemtailwindcss.vercel.app) | HTML / Tailwind CSS |
+| 14 | Aula 08 | projeto_em_react_vd_ | [🔗 Repositório](https://github.com/ahslammendes/projeto_em_react_vd_) | [🌐 Ver online](https://projeto-em-react-vd.vercel.app) | React |
 
 ---
 
